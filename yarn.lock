@@ -4345,9 +4345,9 @@ react-is@^16.3.0-alpha.3:
   version "16.3.0-alpha.3"
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.3.0-alpha.3.tgz#0960d927b2b17154897139c6329aa958e29a86c2"
 
-react-native-google-places@^2.5.0:
-  version "2.5.0"
-  resolved "https://registry.yarnpkg.com/react-native-google-places/-/react-native-google-places-2.5.0.tgz#a52c0ee6629a5c4aa222589022f127c5fa201436"
+"react-native-google-places@https://github.com/ahmadvaroqua/react-native-google-places":
+  version "2.5.2"
+  resolved "https://github.com/ahmadvaroqua/react-native-google-places#90bfc8395ceafeaa4e837dc507d49a69d19ce6fa"
 
 react-native@0.56.0:
   version "0.56.0"
